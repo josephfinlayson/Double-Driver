@@ -1,6 +1,6 @@
 
 <<< Double Driver - Readme >>>
---------------------------------------------------------------------------------
+-----------------PASSWORD = X USER = Y---------------------------------------------------------------
 
   < Description >
 
@@ -38,4 +38,4 @@
     - whatsnew.txt  :: Version history 
 
 --------------------------------------------------------------------------------
-*** Copyright © Budy Setiawan Kusumah. All rights reserved. ***
+*** Copyright Â© Budy Setiawan Kusumah. All rights reserved. ***
